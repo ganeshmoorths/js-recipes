@@ -1,6 +1,8 @@
 ﻿# MERN Stack
 
 ## Advanced HTML
+	- Content modal
+	- HTML Layouts
 	- Element catagories
 	- Element types
 	- Input types
@@ -12,7 +14,7 @@
 ## CSS
 	- Responsive styling / viewports / 
 	- Positioning
-	- flex-box
+	- flexbox
 	- polyfills
 	- svg
 	- animation basics
@@ -98,6 +100,14 @@
 	- Redux dev tools
 	- GraphiQL
 	- StoryBook
+
+## Unit testing
+	- Jest: https://medium.com/opendoor-labs/testing-react-components-with-jest-a7e8e4d312d8
+	- Enzyme
+
+## Integration & Deployment
+	- CircleCI
+	- Jenkins setup
 
 ## Other tools and packages
 	- command prompt
