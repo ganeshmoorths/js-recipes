@@ -58,17 +58,36 @@
 	- React recipes
 
 ## Redux
+
 ## MobX
+	- Core Architecture
+	- Observervable - for object, array, etc
+	- extendObservable
+	- Observer
+	- action.bound
+	- Computed
+
 ## TypeScript
+
 ## Webpack with babel
+	- Webpack loaders
+	- Webpack dev-server
+	- Webpack config setup
+	- Webpack code splitting
+	- Babel presets & plugins
+
 ## Express
+	- Setup
 	- Endpoints
 	- Middlewares
+
 ## Apollo / GraphQL
+
 ## NodeJS
 	- Core
 	- http / https
 	- Rest API service
+
 ## MongoDB
 	- DB basics
 	- core
