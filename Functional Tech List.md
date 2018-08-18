@@ -25,6 +25,7 @@
 	- Cookie
 	- Session
 	- http/https, http methods
+		- https://medium.com/@bilalak90/http-headers-101-5392a7eff87b
 	- error codes
 	- headers, content types
 	- encoding/decoding *uses
@@ -32,6 +33,7 @@
 	- ASCII codes
 	- proxy
 	- what is cross-env issue and fix
+	- https://www.w3schools.com/jsref/default.asp
 
 ## JavaScript
 	- core, complete javascript.info
@@ -102,7 +104,9 @@
 	- StoryBook
 
 ## Unit testing
-	- Jest: https://medium.com/opendoor-labs/testing-react-components-with-jest-a7e8e4d312d8
+	- Jest
+		- https://medium.com/opendoor-labs/testing-react-components-with-jest-a7e8e4d312d8
+		- https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
 	- Enzyme
 
 ## Integration & Deployment

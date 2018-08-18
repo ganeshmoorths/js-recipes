@@ -16,6 +16,9 @@
     - web workers
     - history
     - Geolocation
+        - navigator.geolocation.getCurrentPosition(positionObj => {console.log(positionObj)})
+        - navigator.geolocation.watchPosition()
+        - navigator.geolocation.clearWatch()
     - 
 
 ## Structure & Semantics
